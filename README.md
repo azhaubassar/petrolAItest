@@ -7,15 +7,17 @@ Simple RN app using Redux, Redux Saga, TS
 <p align="center">App with first redux saga experience</p>
 
 [//]: # (Add your gifs/images here:)
-<div>
-<p >iOS</p>
-  <img src="/ios1.gif" alt="demo" height="425">
+<div >
+  <div>
+    <p>iOS</p>
+    <img src="/ios1.gif" alt="demo" height="425">
+   </div>
+    <div>
   <p>Android</p>
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="/android.gif" alt="demo" height="425">
+         </div>
 </div>
 
 <hr />
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- ⚛️ **React Native** 
