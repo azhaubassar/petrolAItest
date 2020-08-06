@@ -9,7 +9,7 @@ Simple RN app using Redux, Redux Saga, TS
 [//]: # (Add your gifs/images here:)
 <div>
 <p >iOS</p>
-  <img src="./ios1.gif" alt="demo" height="425">
+  <img src="/ios1.gif" alt="demo" height="425">
   <p>Android</p>
   <img src="IMAGE_2_URL" alt="demo" height="425">
 </div>
